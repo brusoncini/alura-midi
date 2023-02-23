@@ -6,7 +6,7 @@ Minha versão do ALura midi, projeto final do curso de Javascript para Web.
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Midi**
 | :label: Tecnologias | Javascript, HTML, CSS
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://alura-midi-lemon.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![image](https://user-images.githubusercontent.com/120529944/220796603-ded6b831-a6a3-4567-bcc7-4c77e50c96b3.png)
